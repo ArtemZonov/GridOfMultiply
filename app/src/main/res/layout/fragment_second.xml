@@ -9,8 +9,8 @@
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
-        android:layout_width="123dp"
-        android:layout_height="500dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="@string/two"
         android:theme="@style/textViews"
         app:layout_constraintBottom_toBottomOf="parent"
