@@ -22,7 +22,4 @@
         <item name="android:textColor">@color/black</item>
     </style>
 
-    <style name="ConstrBackgr">
-        <item name="background">#88867E</item>
-    </style>
 </resources>
